@@ -1,6 +1,8 @@
 # StatusBarCompat
 一个实现多fragment状态栏沉浸式的库
 
+本库基于https://github.com/niorgai/StatusBarCompat
+
 [![](https://jitpack.io/v/qzc0537/StatusBarCompat.svg)](https://jitpack.io/#qzc0537/StatusBarCompat)
 
 
