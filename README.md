@@ -29,10 +29,10 @@ implementation 'com.github.qzc0537:StatusBarCompat:1.0.3'
 
 3.愉快的使用：
 ```
-                透明状态栏：
-                StatusBarCompat.translucentStatusBar(mContext, true);
-                设置状态栏颜色：
-                StatusBarCompat.setStatusBarColor(this, ContextCompat.getColor(this, R.color.common_bg));
-                状态栏白色背景：
-                StatusBarCompat.changeToLightStatusBar(mContext);
+透明状态栏：
+StatusBarCompat.translucentStatusBar(mContext, true);
+设置状态栏颜色：
+StatusBarCompat.setStatusBarColor(this, ContextCompat.getColor(this, R.color.common_bg));
+状态栏白色背景：
+StatusBarCompat.changeToLightStatusBar(mContext);
 
