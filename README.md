@@ -34,5 +34,5 @@ StatusBarCompat.translucentStatusBar(this, true);
 设置状态栏颜色：
 StatusBarCompat.setStatusBarColor(this, ContextCompat.getColor(this, R.color.colorPrimary));
 状态栏浅色模式：
-StatusBarCompat.changeToLightStatusBar(mContext);
+StatusBarCompat.changeToLightStatusBar(this);
 
