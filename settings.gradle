@@ -1,1 +1,1 @@
-include ':statusBarCompat'
+include ':statusBarCompat', ':sample'

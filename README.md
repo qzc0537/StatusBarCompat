@@ -24,15 +24,15 @@ allprojects {
 2.app build.gradle下添加依赖 ：
 
 ```
-implementation 'com.github.qzc0537:StatusBarCompat:1.0.6'
+implementation 'com.github.qzc0537:StatusBarCompat:1.0.7'
 ```
 
 3.愉快的使用：
 ```
 透明状态栏：
-StatusBarCompat.translucentStatusBar(mContext, true);
+StatusBarCompat.translucentStatusBar(this, true);
 设置状态栏颜色：
-StatusBarCompat.setStatusBarColor(this, ContextCompat.getColor(this, R.color.common_bg));
-状态栏白色背景：
+StatusBarCompat.setStatusBarColor(this, ContextCompat.getColor(this, R.color.colorPrimary));
+状态栏浅色模式：
 StatusBarCompat.changeToLightStatusBar(mContext);
 
