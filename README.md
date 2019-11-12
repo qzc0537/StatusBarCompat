@@ -24,6 +24,10 @@ allprojects {
 2.app build.gradle下添加依赖 ：
 
 ```
+AndroidX:
+implementation 'com.github.qzc0537:StatusBarCompat:1.0.8'
+
+Before AndroidX:
 implementation 'com.github.qzc0537:StatusBarCompat:1.0.7'
 ```
 
