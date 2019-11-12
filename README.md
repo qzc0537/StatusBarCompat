@@ -5,6 +5,7 @@
 
 [![](https://jitpack.io/v/qzc0537/StatusBarCompat.svg)](https://jitpack.io/#qzc0537/StatusBarCompat)
 
+![ShadowLayout](https://github.com/qzc0537/StatusBarCompat/blob/master/screenshot.png)
 
 使用
 --
